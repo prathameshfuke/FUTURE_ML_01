@@ -65,6 +65,6 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 MIT License
 
 ## 👥 Contact
-- GitHub: [@yourusername](https://github.com/prathameshfuke)
+- GitHub: [@prathameshfuke](https://github.com/prathameshfuke)
 - Email : prathameshfuke@icloud.com
   
